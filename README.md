@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal! Inspirado na hype "Natty or Not" do fisiculturismo, este projeto apresenta um vídeo feito totalmente com ferramentas de IA abordando sobre a linguagem Python.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,32 +20,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Fantástico Mundo de Python ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O meu projeto é um vídeo ensinando a linguagem Python do zero para pessoas que nunca programaram, de forma didática e simples.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa: ChatGPT para cria do roteiro;
+IA Generativa Synthesia para criação do vídeo, voz e avatar.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inseri o seguinte prompt no ChatGPT:
+"Crie um roteiro para vídeo de 5 minutos, que ensine pessoas a começar a programar em python, começando do zero ao básico."
+
+Ele retornou com todo o roteiro montado e separado.
+
+Em seguida, no Synthesia, foi escolhido avatar e voz, e nas caixas de texto foram inseridos os diálogos, e no background foram
+sendo inseridos textos e imagens para exemplificar o conteúdo visual.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Vídeo](https://share.synthesia.io/70f1368d-a400-4d68-9fdc-84971fdc1857)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+_________________________________________
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## Analista e Desenvolvedor de Programas:
+[Pedro Mascarenhas](https://www.linkedin.com/in/mascarenhaspedro/) 🚀
