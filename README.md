@@ -20,7 +20,7 @@ Olá pessoal! Inspirado na hype "Natty or Not" do fisiculturismo, este projeto a
 ### Template
 
 ```markdown
-# O Fantástico Mundo de Python ;)
+## O Fantástico Mundo de Python ;)
 
 ## 📒 Descrição
 O meu projeto é um vídeo ensinando a linguagem Python do zero para pessoas que nunca programaram, de forma didática e simples.
@@ -28,21 +28,22 @@ O meu projeto é um vídeo ensinando a linguagem Python do zero para pessoas que
 ## 🤖 Tecnologias Utilizadas
 IA Generativa: ChatGPT para cria do roteiro;
 IA Generativa Synthesia para criação do vídeo, voz e avatar.
+Vs Code para exemplos de códigos.
 
 ## 🧐 Processo de Criação
 Inseri o seguinte prompt no ChatGPT:
-"Crie um roteiro para vídeo de 5 minutos, que ensine pessoas a começar a programar em python, começando do zero ao básico."
+"Crie um roteiro para vídeo de 3 minutos, que ensine pessoas a começar a programar em Python, começando do zero ao básico."
 
 Ele retornou com todo o roteiro montado e separado.
 
-Em seguida, no Synthesia, foi escolhido avatar e voz, e nas caixas de texto foram inseridos os diálogos, e no background foram
-sendo inseridos textos e imagens para exemplificar o conteúdo visual.
+Em seguida, no Synthesia, foi escolhido avatar e voz, e nas caixas de texto foram inseridos os diálogos advindos da resposta do ChatGPT, e no background foram
+sendo inseridos textos e imagens para exemplificar o conteúdo visual do vídeo.
 
 ## 🚀 Resultados
-[Vídeo](https://share.synthesia.io/70f1368d-a400-4d68-9fdc-84971fdc1857)
+[Assista o vídeo aqui!](https://share.synthesia.io/70f1368d-a400-4d68-9fdc-84971fdc1857)
 
 
-
+![Tela](https://github.com/pedromasca/lab-natty-or-not-video-python/blob/main/Tela.png)
 _________________________________________
 
 ## Analista e Desenvolvedor de Programas:
